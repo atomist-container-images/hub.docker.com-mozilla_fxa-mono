@@ -1,6 +1,12 @@
 # Tags: latest
 FROM mozilla/fxa-mono:latest
 
+# Tags: v1.229.1
+FROM mozilla/fxa-mono:v1.229.1
+
+# Tags: v1.228.7
+FROM mozilla/fxa-mono:v1.228.7
+
 # Tags: v1.228.6
 FROM mozilla/fxa-mono:v1.228.6
 
@@ -30,15 +36,3 @@ FROM mozilla/fxa-mono:v1.226.8
 
 # Tags: v1.226.7
 FROM mozilla/fxa-mono:v1.226.7
-
-# Tags: v1.226.6
-FROM mozilla/fxa-mono:v1.226.6
-
-# Tags: v1.227.1
-FROM mozilla/fxa-mono:v1.227.1
-
-# Tags: v1.226.4
-FROM mozilla/fxa-mono:v1.226.4
-
-# Tags: v1.226.3
-FROM mozilla/fxa-mono:v1.226.3
